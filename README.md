@@ -1,4 +1,4 @@
-# 👋 Привет, я Факерович (Fakerovi4i)
+# 👋 Меня зовут Виталик!
 
 **Junior Python Backend Developer** | **Разработчик Telegram-ботов**
 
