@@ -2,9 +2,8 @@
 
 **Junior Python Backend Developer** | **Разработчик Telegram-ботов**
 
-🇷🇺 Москва · [Telegram](https://t.me/Moxen_Toxen) · 📧 forbussinessss@gmail.com · 📞 +7 (929) 653-62-22
+[Telegram](https://t.me/Moxen_Toxen) · 📧 forbussinessss@gmail.com · 📞 +7 (929) 653-62-22
 
-[![GitHub followers](https://img.shields.io/github/followers/Fakerovi4i?label=Follow&style=social)](https://github.com/Fakerovi4i)
 [![Telegram](https://img.shields.io/badge/Telegram-@Moxen_Toxen-blue?logo=telegram)](https://t.me/Moxen_Toxen)
 
 ---
