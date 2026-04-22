@@ -6,13 +6,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Moxen_Toxen-blue?logo=telegram)](https://t.me/Moxen_Toxen)
 
----
-
-## 🔑 Ключевые слова
-**Python-разработчик с фокусом на бэкенд, Telegram-ботов и интеграцию API**
-
----
-
 ## 🧑‍💻 Обо мне
 
 Начинающий Python-разработчик. Создал и запустил двух Telegram-ботов с нуля до работающих онлайн-версий.  
