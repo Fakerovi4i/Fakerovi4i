@@ -1,8 +1,8 @@
 # 👋 Меня зовут Виталик!
 
-**Junior Python Backend Developer** | **Разработчик Telegram-ботов**
+## **Junior Python Backend Developer** | **Разработчик Telegram-ботов**
 
-[Telegram](https://t.me/Moxen_Toxen) · 📧 forbussinessss@gmail.com · 📞 +7 (929) 653-62-22
+📧 forbussinessss@gmail.com
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Moxen_Toxen-blue?logo=telegram)](https://t.me/Moxen_Toxen)
 
@@ -16,19 +16,19 @@ Python-разработчик. Создал и запустил двух Telegra
 ## 🛠 Мой стек технологий и инструменты
 
 ### Backend & Основной язык
-![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
-![asyncio](https://img.shields.io/badge/-asyncio-2b5b84?logo=python)
-![aiogram](https://img.shields.io/badge/aiogram-2.x-0088cc?logo=telegram)
-![pyTelegramBotAPI](https://img.shields.io/badge/telebot-4.x-2ca5e0)
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&style=for-the-badge)
+![asyncio](https://img.shields.io/badge/-asyncio-2b5b84?logo=python&style=for-the-badge)
+![aiogram](https://img.shields.io/badge/aiogram-2.x-0088cc?logo=telegram&style=for-the-badge)
+![pyTelegramBotAPI](https://img.shields.io/badge/telebot-4.x-2ca5e0?style=for-the-badge)
 
 ### Базы данных
-![SQLite](https://img.shields.io/badge/SQLite-3-003b57?logo=sqlite)
+![SQLite](https://img.shields.io/badge/SQLite-3-003b57?logo=sqlite&style=for-the-badge)
 
 ### DevOps & Инфраструктура
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![Render](https://img.shields.io/badge/Render-deploy-46e3b7?logo=render)
-![Flask](https://img.shields.io/badge/Flask-Healthcheck-000000?logo=flask)
-![APScheduler](https://img.shields.io/badge/APScheduler-3.x-4c9a2a)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-deploy-46e3b7?logo=render&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-Healthcheck-000000?logo=flask&style=for-the-badge)
+![APScheduler](https://img.shields.io/badge/APScheduler-3.x-4c9a2a?style=for-the-badge)
 
 ### Интеграции
 ![REST API](https://img.shields.io/badge/REST_API-Integration-ff6c37)
