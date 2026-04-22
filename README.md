@@ -31,14 +31,14 @@ Python-разработчик. Создал и запустил двух Telegra
 ![APScheduler](https://img.shields.io/badge/APScheduler-3.x-4c9a2a?style=for-the-badge)
 
 ### Интеграции
-![REST API](https://img.shields.io/badge/REST_API-Integration-ff6c37)
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-Context_Chat-7c3aed)
-![Kinopoisk API](https://img.shields.io/badge/Kinopoisk_API-Unofficial-fc3c3c)
+![REST API](https://img.shields.io/badge/REST_API-Integration-ff6c37?style=for-the-badge)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-Context_Chat-7c3aed?style=for-the-badge)
+![Kinopoisk API](https://img.shields.io/badge/Kinopoisk_API-Unofficial-fc3c3c?style=for-the-badge)
 
 ### Инструменты
-![Logging](https://img.shields.io/badge/Logging-Python-1e6f5c)
-![dotenv](https://img.shields.io/badge/dotenv-0.21-eca539)
-![Threading](https://img.shields.io/badge/Threading-✓-green)
+![Logging](https://img.shields.io/badge/Logging-Python-1e6f5c?style=for-the-badge)
+![dotenv](https://img.shields.io/badge/dotenv-0.21-eca539?style=for-the-badge)
+![Threading](https://img.shields.io/badge/Threading-✓-green?style=for-the-badge)
 
 ---
 
