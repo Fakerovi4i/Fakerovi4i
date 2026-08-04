@@ -2,7 +2,7 @@
 
 ## **Junior Python Backend Developer** | **Разработчик Telegram-ботов**
 
-📧 forbussinessss@gmail.com
+📧 vitalieous@mail.ru
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Moxen_Toxen-blue?logo=telegram)](https://t.me/Moxen_Toxen)
 
